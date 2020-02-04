@@ -1,0 +1,21 @@
+html {
+	height: 100%;
+}
+
+body {
+	margin: 0;
+	font-family: 'Stardos Stencil', cursive;
+	height: 100%;
+	background:#fc6b03;
+	color:#80fc03;
+}
+
+h3 {
+	font-family: 'Molle';
+	color: #be03fc;
+}
+
+h1 {
+	font-family: 'Sigmar One';
+	color: #038cfc;
+}
