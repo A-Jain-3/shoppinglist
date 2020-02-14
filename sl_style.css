@@ -4,7 +4,7 @@ html {
 
 body {
 	margin: 0;
-	font-family: 'Stardos Stencil', cursive;
+	font-family: 'Sriracha', cursive;
 	height: 100%;
 	background:#fc6b03;
 	color:#80fc03;
@@ -55,10 +55,12 @@ main {
 	border: none;
 	color: rgba(0, 0, 0, 0.87);
 	font-size: 1.3rem;
+	font-family: 'Abel', sans-serif;
 }
 
 .submission-line__input::placeholder {
 	color: rgba(0, 0, 0, 0.38);
+	font-family: 'Abel', sans-serif;
 }
 
 .submission-line__input:focus {
@@ -79,6 +81,7 @@ main {
 	border: none;
 	font-size: 1.3rem;
 	color: #70fbaa;
+	font-family: 'Stardos Stencil', cursive;
 }
 
 .submission-line__input,
